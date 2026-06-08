@@ -5,3 +5,6 @@
 [submodule "shinyTimer"]
 	path = shinyTimer
 	url = https://github.com/maciekbanas/shinytimer
+[submodule "shinyphaser"]
+	path = shinyphaser
+	url = https://github.com/maciekbanas/shinyphaser
